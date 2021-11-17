@@ -1,0 +1,11 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rkrohne1991/react-typescript.git",
+  "author": "rkrohne1991 <rafal.krohne@hotmail.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
